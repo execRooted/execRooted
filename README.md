@@ -1,48 +1,20 @@
-# Hi, I'm execRooted 👋
+# Hi there, I'm execRooted!
 
-Welcome to my GitHub profile! I'm a developer who builds whatever I feel is useful. I enjoy solving problems and creating practical solutions across different platforms and technologies. The language I like the most is **Python**.
+Welcome to my GitHub profile! I'm a developer who builds whatever I feel is useful. I enjoy solving problems and creating practical solutions across different platforms and technologies. The language I like the most is **Python**
 
----
+## Tech Stack & Experience
 
-## 📊 GitHub Stats
+- **Languages I know:** Python, Bash, C++, C#, HTML, CSS
+- **Platforms:** Windows, Linux
+- **Embedded & Hardware:** Arduino (C++)
+- **Focus:** Versatile development based on purpose and usefulness
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=execRooted&show_icons=true&hide_border=true&theme=radical)  
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=execRooted&show_icons=true&hide_border=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&hide_border=true&theme=radical)
 
 ---
-
-## 🚀 About Me
-
-I'm a developer creating practical, lightweight tools and scripts to enhance daily workflows, mainly on Windows.  
-I focus on Python automation and batch scripting to make everyday tasks easier.
-
-- 🐍 Python scripting & automation  
-- 🛠️ Batch scripting for Windows  
-- 🎯 Clean, reliable, and user-friendly tools  
-- 💡 Always learning and improving my projects  
-
+***If you find any of my programs useful or intresting, please consider giving them a star. It helps out a lot :D***
 ---
-
-## 🛠️ Tools & Technologies
-
-- Python (automation, scripting)  
-- Batch scripting (.bat)  
-- `pyperclip`, `keyboard` libraries for clipboard and hotkeys  
-- PyInstaller for creating executables  
-- Git & GitHub for version control and collaboration  
-
----
-
-## 📫 Contact Me
-
-| Platform      | Link                                   |
-|---------------|----------------------------------------|
-| GitHub        | [execRooted](https://github.com/execRooted)       |
-| Email         | execRooted@example.com *(replace with your email)* |
-| Twitter       | [@execRooted](https://twitter.com/execRooted)     |
-
----
-
-⭐ If you find my projects useful, please consider giving them a star — it really helps!
-
-Thanks for stopping by! 🙌
+Thanks for visiting!
