@@ -1,5 +1,7 @@
 # Hi, I'm execRooted 👋
 
+Welcome to my GitHub profile! I'm a developer who builds whatever I feel is useful. I enjoy solving problems and creating practical solutions across different platforms and technologies. The language I like the most is **Python**.
+
 ---
 
 ## 📊 GitHub Stats
@@ -36,8 +38,8 @@ I focus on Python automation and batch scripting to make everyday tasks easier.
 | Platform      | Link                                   |
 |---------------|----------------------------------------|
 | GitHub        | [execRooted](https://github.com/execRooted)       |
-| Email         | execRooted@gmail.com |
-
+| Email         | execRooted@example.com *(replace with your email)* |
+| Twitter       | [@execRooted](https://twitter.com/execRooted)     |
 
 ---
 
