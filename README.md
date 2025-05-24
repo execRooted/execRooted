@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a developer who builds whatever I feel is usef
 ---
 ***If you find any of my programs useful or intresting, please consider giving them a star. It helps out a lot :D***
 ---
-Thanks for visiting!
+**Thanks for visiting!**
