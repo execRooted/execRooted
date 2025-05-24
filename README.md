@@ -15,6 +15,16 @@ Welcome to my GitHub profile! I'm a developer who builds whatever I feel is usef
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&hide_border=true&theme=radical)
 
 ---
+## Contact me:
+
+
+| Platform      | Link                                   |
+|---------------|----------------------------------------|
+| GitHub        | [execRooted](https://github.com/execRooted)       |
+| Email         | execRooted@gmail.com  |
+
+
+---
 ***If you find any of my programs useful or intresting, please consider giving them a star. It helps out a lot :D***
 ---
-**Thanks for visiting!**
+**Thanks for visiting! :D**
