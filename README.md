@@ -1,10 +1,10 @@
 # Hi there, I'm execRooted!
 
-Welcome to my GitHub profile! I'm a developer who builds whatever I feel is useful. I enjoy solving problems and creating practical solutions across different platforms and technologies.
+Welcome to my GitHub profile! I'm a developer who builds whatever I feel is useful. I enjoy solving problems and creating practical solutions across different platforms and technologies. The language I like the most is **Python**
 
 ## Tech Stack & Experience
 
-- **Languages:** Python, Bash, C++, C#, HTML, CSS
+- **Languages I know:** Python, Bash, C++, C#, HTML, CSS
 - **Platforms:** Windows, Linux
 - **Embedded & Hardware:** Arduino (C++)
 - **Focus:** Versatile development based on purpose and usefulness
