@@ -1,6 +1,6 @@
 # Hi there, I'm execRooted!
 
-Welcome to my GitHub profile! I'm a developer who builds whatever I feel is useful. I enjoy solving problems and creating practical solutions across different platforms and technologies. The language I like the most is **Python**
+Welcome to my GitHub profile! I'm a 13 yrl old programmer who builds whatever I feel is useful or fun. The language I like the most is **Python**.
 
 ## Tech Stack & Experience
 
