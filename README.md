@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm a 13 yrl old programmer who builds whatever I 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=execRooted&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&theme=radical&langs_count=10)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&theme=radical&langs_count=10&hide_border=false)
 
 ---
 ## Contact me:
