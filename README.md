@@ -1,4 +1,4 @@
-# Hi there, I'm execRooted!
+# Hi there,
 
 Welcome to my GitHub profile! I'm a 13 yrl old programmer who builds whatever I feel is useful or fun. The language I like the most is **Python**.
 
