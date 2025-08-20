@@ -1,13 +1,13 @@
 # Hi there,
 
-Welcome to my GitHub profile! I'm a 13 yrl old programmer who builds whatever I feel is useful or fun. The language I like the most is **Python**.
+Welcome to my GitHub profile! I'm a 13 yrl old programmer who builds whatever I feel is useful or fun. The language I like the most is **Python**. (I use Arch btw)
 
 ## Tech Stack & Experience
 
-- **Languages I know:** Python, Bash, C++, C#, HTML, CSS
-- **Platforms:** Windows, Linux
-- **Embedded & Hardware:** Arduino (C++)
-- **Focus:** Versatile development based on purpose and usefulness
+- **Languages I know:** Python, Bash, C++, C#, HTML, CSS (I use Arch btw)
+- **Platforms:** Windows, Linux (I use Arch btw)
+- **Embedded & Hardware:** Arduino (C++) (I use Arch btw)
+- **Focus:** Versatile development based on purpose and usefulness (I use Arch btw)
 
 ## GitHub Stats
 
@@ -27,4 +27,4 @@ Welcome to my GitHub profile! I'm a 13 yrl old programmer who builds whatever I 
 ---
 ***If you find any of my programs useful or intresting, please consider giving them a star. It helps out a lot :D***
 ---
-**Thanks for visiting! :D**
+**Thanks for visiting! :D** (I use Arch btw)
