@@ -1,6 +1,6 @@
-## Hi there!
+## Hi there,
 
-Im Mike. A full stack developer who builds whatever its useful. I am also retarded.
+Im Mike. A full stack developer who builds whatever its useful. I am also *kind of retarded.*
 
 ## Experiences:
 
@@ -16,7 +16,7 @@ Im Mike. A full stack developer who builds whatever its useful. I am also retard
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&theme=radical&langs_count=10&hide_border=true)
 
 ---
-## Contact me (especially if you are a girl, ***PLEASE***):
+## Contact me (especially if you are a girl, ***PLEA--*** ):
 
 
 | Platform      | Link                                   |
