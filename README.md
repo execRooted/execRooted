@@ -1,6 +1,6 @@
 ## Hi there,
 
-Im Mike. A full stack developer who builds whatever its useful. I am also *kind of re-*
+Im a human beeing, aka a full stack developer who builds whatever its useful. I am also ***kind of re-***
 
 ## Experiences:
 
@@ -8,7 +8,12 @@ Im Mike. A full stack developer who builds whatever its useful. I am also *kind 
    
  - OS: Arch.
 
+## About me:
 
+***What I like:*** Programming, Linux, Arch, *goth mo-*(must of been the wind), Arduino and Raspberry. 
+
+***What I don't like:*** I don't like one single thing. and that is * drumroll * JavaScript.
+ 
 
 ## GitHub Stats
 
@@ -16,7 +21,7 @@ Im Mike. A full stack developer who builds whatever its useful. I am also *kind 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&theme=radical&langs_count=10&hide_border=true)
 
 ---
-## Contact me (especially if you are a girl, ***PLEA--*** ):
+## Contact me (especially if you are a girl, *PLEASE, I BE-* ):
 
 
 | Platform      | Link                                   |
@@ -26,8 +31,8 @@ Im Mike. A full stack developer who builds whatever its useful. I am also *kind 
 
 
 ---
-***Please star my projects, so I can feed my kids.***
+> Please star my projects, so I can feed my kids.
 ---
 **Thanks for visiting! :D** 
 ---
-*Btw did I tell you that I use Ar--*
+*Btw did I ever tell you that I use Ar--*
