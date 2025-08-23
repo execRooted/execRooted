@@ -1,6 +1,6 @@
 ## Hi there,
 
-Im Mike. A full stack developer who builds whatever its useful. I am also *kind of retarded.*
+Im Mike. A full stack developer who builds whatever its useful. I am also *kind of ret---.*
 
 ## Experiences:
 
