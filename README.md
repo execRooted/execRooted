@@ -4,8 +4,9 @@ Im Mike. A full stack developer who builds whatever its useful. I am also retard
 
 ## Experiences:
 
- - Langs: I work primarely with python, but I do enjoy coding in C# and arduino. Btw I use Arch.
- - OS: Arch. Btw, haveI told you that I use Arch yet?
+ - Langs: You can see them down below. I am not writing them again gng ✌️
+   
+ - OS: Arch.
 
 
 
@@ -15,7 +16,7 @@ Im Mike. A full stack developer who builds whatever its useful. I am also retard
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&theme=radical&langs_count=10&hide_border=true)
 
 ---
-## Contact me(especially if you are a girl :3):
+## Contact me (especially if you are a girl, ***PLEASE***):
 
 
 | Platform      | Link                                   |
@@ -25,7 +26,7 @@ Im Mike. A full stack developer who builds whatever its useful. I am also retard
 
 
 ---
-***Please star my projects, so I can feed my kids.**
+***Please star my projects, so I can feed my kids.***
 ---
 **Thanks for visiting! :D** 
 ---
