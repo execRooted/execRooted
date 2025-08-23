@@ -1,18 +1,4 @@
-# Hi there,
 
-Welcome to my GitHub profile I'm a lonely goth mommy who builds whatever I feel is useful or fun. The language I like the most is **Porn**. (I use Arch btw)
-
-## Tech Stack & Experience
-
-- **Languages I know:** Python, Bash, C++, C#, HTML, CSS, (I use Arch btw)
-- **Platforms:** Windows, Linux (I use Arch btw)
-- **Embedded & Hardware:** Arduino (C++) (I use Arch btw)
-- **Focus:** Versatile development based on purpose and usefulness (I use Arch btw)
-
-## Featured projects:
-
-iHateNiggers.css
-onlyfans
 
 
 ## GitHub Stats
