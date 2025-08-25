@@ -1,6 +1,6 @@
 ## Hi there,
 
-Im a human beeing, aka a full stack developer who builds whatever its useful. I am also ***kind of re-***
+Im a human beeing, (filler word) a full stack developer who builds whatever its useful. I am also ***kind of re-***
 
 ## Experiences:
 
