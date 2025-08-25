@@ -29,6 +29,8 @@ Im a human beeing, aka a full stack developer who builds whatever its useful. I 
 | GitHub        | [execRooted](https://github.com/execRooted)       |
 | Email         | execRooted@gmail.com  |
 
+I also have a discord server, so if you wanna join? 
+https://discord.gg/ncZKhxCR4q
 
 ---
 > Please star my projects, so I can feed my kids.
