@@ -24,10 +24,12 @@ Im a human beeing, (filler word) a full stack developer who builds whatever its 
 ## Contact me (especially if you are a girl, *PLEASE, I BE-* ):
 
 
+
 | Platform      | Link                                   |
 |---------------|----------------------------------------|
-| GitHub        | [execRooted](https://github.com/execRooted)       |
-| Email         | execRooted@gmail.com  |
+| GitHub        | [execRooted](https://github.com/execRooted) |
+| Email         | [execRooted@gmail.com](mailto:execRooted@gmail.com) |
+| Discord       | [Join Server](https://discord.gg/ncZKhxCR4q) |
 
 
 ---
