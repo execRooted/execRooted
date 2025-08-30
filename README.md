@@ -18,7 +18,7 @@ Im a human beeing, (filler word) a full stack developer who builds whatever its 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=execRooted&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&theme=radical&langs_count=10&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execRooted&layout=compact&theme=radical&langs_count=150&hide_border=true)
 
 ---
 ## Contact me (especially if you are a girl, *PLEASE, I BE-* ):
