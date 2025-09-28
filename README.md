@@ -1,7 +1,6 @@
 # execrooted (rooted)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
 I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly, and Shell scripting. I enjoy creating tools, trying out new ideas, and exploring the limits of systems-level programming.
 
@@ -67,9 +66,5 @@ Reach out or work together:
 
 
 
-PS: MY MEMORIESSSS
-
-
-![My Memories GIF](https://media.tenor.com/images/7b8c40f1a08c9e29a7b4b29e2bce2240/tenor.gif)
 
 
