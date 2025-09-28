@@ -65,3 +65,11 @@ Reach out or work together:
 
 ---
 
+
+
+PS: MY MEMORIESSSS
+
+
+![My Memories GIF](https://media.tenor.com/images/7b8c40f1a08c9e29a7b4b29e2bce2240/tenor.gif)
+
+
