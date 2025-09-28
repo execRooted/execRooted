@@ -1,8 +1,8 @@
-# execrooted (Rooted)
+# execrooted (rooted)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-![Coding Banner](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
 
-Welcome to my GitHub! I’m **Rooted**, a coder and tinkerer passionate about building practical and experimental projects.  
+Welcome to my GitHub! I’m **rooted**, a coder and tinkerer passionate about building practical and experimental projects.  
 I primarily work with C, C#, Rust, Python, Arduino (C++), Assembly, and Shell scripting. I enjoy creating tools, experimenting with new ideas, and pushing boundaries with systems-level programming.
 
 ---
@@ -38,9 +38,8 @@ I work with both systems-level and high-level languages. Here’s my main stack:
 Other tools I use frequently:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=gnu-make&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 ---
