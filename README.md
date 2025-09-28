@@ -8,22 +8,24 @@ I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly, and Shell scrip
 
 ## Featured Project
 
+**root-editor** is my main project. It is a versatile text editor that simplifies coding workflows and improves productivity.
 ### [root-editor](https://github.com/execrooted/root-editor)
 
-**root-editor** is my main project. It is a versatile text editor that simplifies coding workflows and improves productivity.
 
 ---
 
 ## Interesting Project
 
-I am also building a **mini OS** using C and Assembly.  
+I am also building a **mini OS** using Assembly.  
 It’s a low-level systems experiment. Stay tuned for updates as it evolves.
+
+### [root_OS](https://github.com/execrooted/root_OS)
 
 ---
 
 ## Languages & Tools
 
-I work with both systems-level and high-level languages. Here is my main stack:
+I work with both low-level and high-level languages. Here is my main stack:
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=programming&logoColor=white)
