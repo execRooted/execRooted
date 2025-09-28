@@ -2,8 +2,8 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
-Welcome to my GitHub! I’m **rooted**, a coder and tinkerer passionate about building practical and experimental projects.  
-I primarily work with C, C#, Rust, Python, Arduino (C++), Assembly, and Shell scripting. I enjoy creating tools, experimenting with new ideas, and pushing boundaries with systems-level programming.
+Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
+I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly, and Shell scripting. I enjoy creating tools, trying out new ideas, and exploring the limits of systems-level programming.
 
 ---
 
@@ -11,21 +11,20 @@ I primarily work with C, C#, Rust, Python, Arduino (C++), Assembly, and Shell sc
 
 ### [root-editor](https://github.com/execrooted/root-editor)
 
-**root-editor** is my main project—a versatile text editor designed to simplify coding workflows and boost productivity.  
-I focus on clean, efficient code while experimenting with advanced features in C# and Rust.
+**root-editor** is my main project. It is a versatile text editor that simplifies coding workflows and improves productivity.
 
 ---
 
 ## Interesting Project
 
 I am also building a **mini OS** using C and Assembly.  
-It’s a low-level systems experiment—stay tuned for updates as it evolves.
+It’s a low-level systems experiment. Stay tuned for updates as it evolves.
 
 ---
 
 ## Languages & Tools
 
-I work with both systems-level and high-level languages. Here’s my main stack:
+I work with both systems-level and high-level languages. Here is my main stack:
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=programming&logoColor=white)
@@ -45,8 +44,7 @@ Other tools I use frequently:
 ---
 
 ## GitHub Stats
-
-Here’s a snapshot of my activity and contributions:
+Here's a summary of my activities and contributions:
 
 ![execrooted's GitHub stats](https://github-readme-stats.vercel.app/api?username=execrooted&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execrooted&layout=compact&theme=radical)
@@ -56,7 +54,10 @@ Here’s a snapshot of my activity and contributions:
 
 ## Contact
 
-Reach out or collaborate:
+Reach out or work together:
+
+**Discord:** \_\_\_rooted\_\_\_ (this is where I'm most active)
+  (Also you can join my discord server [here](https://discord.gg/ncZKhxCR4q) )
 
 **Email:** execrooted@gmail.com
 
