@@ -35,15 +35,6 @@ I am comfortable working on both low-level systems and high-level scripting, mak
 
 ---
 
-## Current Focus
-
-- Improving **root-editor** with new features and optimizations  
-- Learning advanced Rust patterns for systems programming  
-- Experimenting with Arduino projects and embedded systems  
-- Writing Python scripts to automate repetitive tasks  
-- Exploring shell scripting to manage Linux environments efficiently  
-
----
 
 ## GitHub Stats
 
