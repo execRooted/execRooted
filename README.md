@@ -1,7 +1,7 @@
 # execrooted (rooted)
 
-Welcome to my GitHub! I’m **rooted**, a coder and tinkerer passionate about building practical and fun projects.  
-I primarily work with C, C#, Rust, Python, Arduino (C++), and Shell scripting. I like creating tools and experimenting with new ideas.
+Welcome to my GitHub! I’m **rooted**, coder and tinkerer passionate about building practical and fun projects.  
+I primarily work with C, C#, Rust, Python, Arduino (C++), Assembly and Shell scripting. I like creating tools and experimenting with new ideas.
 
 ---
 
@@ -14,11 +14,17 @@ I focus on writing clean, efficient code while exploring new features and learni
 
 ---
 
+## Intresting project:
+
+I am building a mini OS with C and asembly. Stay tuned to see how it turns out
+
+
 ## Languages & Tools
 
 I work with a mix of systems-level and high-level languages. Here’s an overview of my main stack:
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=ASM&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-D22222?style=for-the-badge&logo=arduino&logoColor=white)
