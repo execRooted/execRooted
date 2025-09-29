@@ -2,7 +2,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
-I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly, and Shell scripting. I enjoy creating tools, trying out new ideas, and exploring the limits of systems-level programming.
+I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly(Yeah I know im the goat), and Shell scripting. I enjoy creating tools, trying out new ideas, and exploring the limits of systems-level programming.
 
 ---
 
