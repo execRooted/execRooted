@@ -2,7 +2,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
-I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly(yeah, I know I'm the goat), and Shell scripting. I enjoy creating tools, trying out new ideas, and exploring the limits of systems-level programming.
+I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly (I have used NASM x84), and Shell scripting.
 
 ---
 
@@ -58,7 +58,7 @@ Here's a summary of my activities and contributions:
 Reach out or work together:
 
 **Discord:** \_\_\_rooted\_\_\_ (this is where I'm most active) <br>
-    ***-> (Also you can join my discord server [here](https://discord.gg/ncZKhxCR4q) )***
+       ***-> (Also you can join my discord server [here](https://discord.gg/ncZKhxCR4q) )***
 
 **Email:** execrooted@gmail.com
 
