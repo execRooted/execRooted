@@ -8,7 +8,7 @@ I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly (I have used NAS
 
 ## Featured Project
 
-**root-editor** is my main project. It is a versatile text editor that simplifies coding workflows and improves productivity.
+**root-editor** is my main project. It is a text editor built on Arch Linux
 ### [root-editor](https://github.com/execrooted/root-editor)
 
 
