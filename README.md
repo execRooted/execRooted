@@ -14,14 +14,6 @@ I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly (I have used NAS
 
 ---
 
-## Interesting Project
-
-I am also building a **mini OS** using Assembly.  
-It’s a low-level systems experiment. Stay tuned for updates as it evolves.
-
-### [root_OS](https://github.com/execrooted/root_OS)
-
----
 
 ## Languages & Tools
 
