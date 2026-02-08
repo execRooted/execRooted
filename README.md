@@ -39,8 +39,6 @@ Other tools I use frequently:
 ## GitHub Stats
 Here's a summary of my activities and contributions:
 
-![execrooted's GitHub stats](https://github-readme-stats.vercel.app/api?username=execrooted&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=execrooted&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=execrooted&theme=radical)
 
 ---
