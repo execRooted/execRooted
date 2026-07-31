@@ -1,5 +1,5 @@
 # execrooted (rooted)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
 I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly (I have used NASM x84), and Shell scripting.
