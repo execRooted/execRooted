@@ -42,7 +42,6 @@ Here's a summary of my activities and contributions:
 Reach out or work together:
 
 **Discord:** \_\_\_rooted\_\_\_ (this is where I'm most active) <br>
-       ***-> (Also you can join my discord server [here](https://discord.gg/ncZKhxCR4q) )***
 
 **Email:** rooted@execrooted.com
 
