@@ -4,13 +4,6 @@
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
 I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly (I have used NASM x84), and Shell scripting.
 
----
-
-## Featured Project
-
-**root-editor** is my main project. You can see it down below:
-### [root-editor](https://github.com/execrooted/root-editor)
-
 
 ---
 
