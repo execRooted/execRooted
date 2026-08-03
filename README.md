@@ -4,6 +4,7 @@
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
 I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly (I have used NASM x84), and Shell scripting.
 
+**🌐 www.execrooted.com**
 
 ---
 
@@ -44,8 +45,6 @@ Reach out or work together:
        ***-> (Also you can join my discord server [here](https://discord.gg/ncZKhxCR4q) )***
 
 **Email:** rooted@execrooted.com
-
-**GitHub:** [https://github.com/execrooted](https://github.com/execrooted)
 
 ---
 
