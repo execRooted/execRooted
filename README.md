@@ -1,6 +1,3 @@
-
-<p align="center">
-
 # execrooted (rooted)
  <a href="https://www.execrooted.com"><img src="https://img.shields.io/badge/www.execrooted.com-0078D4?style=for-the-badge&logo=www&logoColor=white" /></a>
 
@@ -50,9 +47,10 @@ Here's a summary of my activities and contributions:
 <p align="center">
 
   
-<img src="https://github-stats-extended.vercel.app/api?username=execrooted&theme=radical" height="200" />
+<img src="https://github-stats-extended.vercel.app/api?username=execrooted&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height="200" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=execrooted&layout=compact&theme=radical" height="200" />
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=execrooted&repo=filebyte&theme=radical" height="200" />
+
+
 
 </p>
 
@@ -71,6 +69,6 @@ Reach out or work together:
 ---
 
 
-</p>
+
 
 
