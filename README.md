@@ -40,19 +40,11 @@ Other tools I use frequently:
 ---
 
 ## GitHub Stats
-Here's a summary of my activities and contributions:
+Here's a summary of my language usage:
 
-
-
-<p align="center">
-
-  
-<img src="https://github-stats-extended.vercel.app/api?username=execrooted&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height="200" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=execrooted&layout=compact&theme=radical" height="200" />
 
 
-
-</p>
 
 
 
