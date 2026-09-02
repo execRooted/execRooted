@@ -1,3 +1,5 @@
+<div align="center">
+
 # execrooted (rooted)
  <a href="https://www.execrooted.com"><img src="https://img.shields.io/badge/www.execrooted.com-0078D4?style=for-the-badge&logo=www&logoColor=white" /></a>
 
@@ -17,7 +19,7 @@ If you find my projects interesting and you want to help me out, here's the link
 
 ## Languages & Tools
 
-<div align="center">
+
 
 I work with both low-level and high-level languages. Here is my main stack:
 
@@ -36,9 +38,7 @@ I work with both low-level and high-level languages. Here is my main stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
 
-<div align="center">
 
 Other tools I use frequently:
 
@@ -56,7 +56,7 @@ Other tools I use frequently:
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 
-</div>
+
 
 ---
 
@@ -67,6 +67,7 @@ Other tools I use frequently:
 </p>
 
 
+</div>
 
 
 
