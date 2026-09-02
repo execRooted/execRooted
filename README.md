@@ -13,7 +13,6 @@ If you find my projects interesting and you want to help me out, here's the link
 <br>
 <br>
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/execrooted)
-
 ---
 
 
@@ -55,9 +54,6 @@ Other tools I use frequently:
 ![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9?style=for-the-badge&logo=neovim&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-
-
-
 ---
 
 
