@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # execrooted (rooted)
  <a href="https://www.execrooted.com"><img src="https://img.shields.io/badge/www.execrooted.com-0078D4?style=for-the-badge&logo=www&logoColor=white" /></a>
