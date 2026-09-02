@@ -39,18 +39,11 @@ Other tools I use frequently:
 ---
 
 
-
-<p align=center>
-
-<img src="https://streak-stats.demolab.com/?user=execrooted&theme=radical" height="200" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=execrooted&layout=compact&theme=radical" height="200" />
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=execrooted&theme=radical" style="height: 200px; width: auto;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=execrooted&layout=compact&theme=radical" style="height: 200px; width: auto;" />
 </p>
 
-
-
----
 
 ## Contact
 
@@ -60,7 +53,7 @@ Reach out or work together:
 |----------|--------|
 | Discord | `___rooted___`|
 | Email | `rooted@execrooted.com` |
----
+
 
 
 
