@@ -36,15 +36,17 @@ Other tools I use frequently:
 ![Make](https://img.shields.io/badge/Make-424242?style=for-the-badge&logo=gnu&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-
 ---
 
-## GitHub Stats
-Here's a summary of my language usage:
 
+
+<p align=center>
+
+<img src="https://streak-stats.demolab.com/?user=execrooted&theme=radical" height="200" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=execrooted&layout=compact&theme=radical" height="200" />
 
 
+</p>
 
 
 
