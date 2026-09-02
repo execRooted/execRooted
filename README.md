@@ -17,9 +17,11 @@ If you find my projects interesting and you want to help me out, here's the link
 
 ## Languages & Tools
 
+<div align="center">
+
 I work with both low-level and high-level languages. Here is my main stack:
 
-<div align="center">
+
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,9 +38,11 @@ I work with both low-level and high-level languages. Here is my main stack:
 
 </div>
 
+<div align="center">
+
 Other tools I use frequently:
 
-<div align="center">
+
 
 ![GCC](https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gcc&logoColor=white)
 ![G++](https://img.shields.io/badge/G%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
