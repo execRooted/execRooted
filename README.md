@@ -45,14 +45,6 @@ Other tools I use frequently:
 </p>
 
 
-## Contact
-
-Reach out or work together:
-
-| Platform | Handle |
-|----------|--------|
-| Discord | `___rooted___`|
-| Email | `rooted@execrooted.com` |
 
 
 
