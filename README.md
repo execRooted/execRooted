@@ -5,7 +5,7 @@
 
 
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
-I mainly work with C, C#, Rust, Python, Arduino (C++), Assembly (I have used NASM x86), and Shell scripting.
+I mainly work with C, C#, Rust, Python, Arduino, Assembly (I have used NASM x86), and Shell scripting.
 
 
 
