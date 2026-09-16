@@ -46,7 +46,6 @@ I work with both low-level and high-level languages. Here is my main stack:
 Other tools I use frequently:
 
 
-
 ![GCC](https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gcc&logoColor=white)
 ![G++](https://img.shields.io/badge/G%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
