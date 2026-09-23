@@ -5,7 +5,7 @@
 
 
 Welcome to my GitHub! I’m **rooted**, a coder and tinkerer who loves building practical and experimental projects.  
-I mainly work with C, C#, Rust, Python, Arduino, Assembly (NASM x86), and Shell scripting.
+I mainly work with C, Rust, C#, Python, Arduino, and Shell scripting.
 
 
 
@@ -27,7 +27,6 @@ I work with both low-level and high-level languages. Here is my main stack:
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=programming&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,12 +38,9 @@ I work with both low-level and high-level languages. Here is my main stack:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Elvish](https://img.shields.io/badge/Elvish-4D4D4D?style=for-the-badge&logo=elvish&logoColor=white)
-
 
 
 Other tools I use frequently:
-
 
 ![GCC](https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gcc&logoColor=white)
 ![G++](https://img.shields.io/badge/G%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
